@@ -3,8 +3,18 @@
 
  
 ### About me
- For me my journey to this point has been driven by passion , i really do enjoy designing challanging projects that solve real practical problems,
- i am skilled at the following;<br>
+ For me my journey to this point has been driven by passion , i really do enjoy designing challanging projects that solve real practical problems.
+- 🌱 I’m currently learning ...
+   * web3
+ 
+ 
+- 🔭 I’m currently working on ...
+
+    * Programmable images
+    * Inteligent Monitoring and Response system for cloud infrastructure
+    * Microservices skeleton test framework
+
+i am skilled at the following;<br>
  
  
  ### Technical Background
@@ -39,6 +49,15 @@
 ![apache](https://raw.githubusercontent.com/jbichene95/LOGOS/main/apache_original_wordmark_logo_icon_146643.png) 
 ![AWS](https://raw.githubusercontent.com/jbichene95/LOGOS/main/amazon_aws_logo_icon_168666.png) 
 ![AZURE](https://raw.githubusercontent.com/jbichene95/LOGOS/main/microsoft_azure_logo_icon_168977.png) 
+ 
+ 
+## AI  IOT AND MACHINE LEARNING
+ * Arduino
+ * raspberry
+ * Numpy
+ * Pandas
+ * sklearn
+ * Musqito protocall
 
 <!--
 
@@ -48,13 +67,7 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-web3
-programmable images
-monitoring and response automation
-unified testing frame work
-microservices skeleton test framework
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
