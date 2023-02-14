@@ -1,14 +1,31 @@
 <h1>John Bichene Godstime<h1>
 <h6>Cheif Technical Officer (AITECH)</h6>
+ ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
  
+### About me
+ For me my journey to this point has been driven by passion , i really do enjoy designing challanging projects that solve real practical problems,
+ i am skilled at the following;
+ ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+ 
+ <div>
+ <ol>
+  <li>
+  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+  </li>
+ </ol>
+ 
+ </div>
 
 
-### ABOUT ME
+### Technical Background
 <html>
  
-
- <h1> I am a computer engineer that is really passionate about working on </h1>
-</html>
+<body>
+ 
+ Intially started out with strong interest in IOT , AI systems and sensor Networks, during my Undergraduate years , subsequently picked interest in being able to make these systems available over the web , then i got obsessed with the cloud and Devops which is where i am currrently at.
+  
+ </body>
+ </html>
 <!--
 **jbichene95/jbichene95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
