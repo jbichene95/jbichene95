@@ -25,7 +25,8 @@
  
   ## DEVOPS AND AUTOMATION
  
-  ![Python](https://raw.githubusercontent.com/jbichene95/LOGOS/main/python_104451.png) 
+  ![GITHUB-ACTIONS](https://raw.githubusercontent.com/jbichene95/LOGOS/main/actions_icon_189392.png) 
+ ![GITHUB-ACTIONS](https://raw.githubusercontent.com/jbichene95/LOGOS/main/apache_original_wordmark_logo_icon_146643.png) 
 
 
 <!--
