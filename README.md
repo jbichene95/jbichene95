@@ -6,22 +6,8 @@
  For me my journey to this point has been driven by passion , i really do enjoy designing challanging projects that solve real practical problems,
  i am skilled at the following;<br>
  
- ## Devlopment stack 
  
-  ![Python](https://raw.githubusercontent.com/jbichene95/LOGOS/main/python_104451.png) ![Django](https://raw.githubusercontent.com/jbichene95/LOGOS/main/django_line_logo_icon_146560.png) ![C#](https://raw.githubusercontent.com/jbichene95/LOGOS/main/c_sharp_icon_213045.png)  ![ASP.NET](https://raw.githubusercontent.com/jbichene95/LOGOS/main/dot_net_original_wordmark_logo_icon_146547.png) ![PostgreSQL](https://raw.githubusercontent.com/jbichene95/LOGOS/main/postgresql_original_wordmark_logo_icon_146392.png) ![MongoDB](https://raw.githubusercontent.com/jbichene95/LOGOS/main/mongodb_plain_wordmark_logo_icon_146423.png) ![Redis](https://raw.githubusercontent.com/jbichene95/LOGOS/main/redis_plain_wordmark_logo_icon_146367.png) ![Rabbitmq](https://raw.githubusercontent.com/jbichene95/LOGOS/main/rabbitmq_logo_icon_170812.png)
- ![apache-kafka](https://raw.githubusercontent.com/jbichene95/LOGOS/main/apache_kafka_vertical_logo_icon_169585.png)
- <div>
- <ol>
-  <li>
-   
-
-  </li>
- </ol>
- 
- </div>
-
-
-### Technical Background
+ ### Technical Background
 <html>
  
 <body>
@@ -30,6 +16,14 @@
   
  </body>
  </html>
+ 
+ ## Development stack 
+ 
+  ![Python](https://raw.githubusercontent.com/jbichene95/LOGOS/main/python_104451.png) ![Django](https://raw.githubusercontent.com/jbichene95/LOGOS/main/django_line_logo_icon_146560.png) ![C#](https://raw.githubusercontent.com/jbichene95/LOGOS/main/c_sharp_icon_213045.png)  ![ASP.NET](https://raw.githubusercontent.com/jbichene95/LOGOS/main/dot_net_original_wordmark_logo_icon_146547.png) ![PostgreSQL](https://raw.githubusercontent.com/jbichene95/LOGOS/main/postgresql_original_wordmark_logo_icon_146392.png) ![MongoDB](https://raw.githubusercontent.com/jbichene95/LOGOS/main/mongodb_plain_wordmark_logo_icon_146423.png) ![Redis](https://raw.githubusercontent.com/jbichene95/LOGOS/main/redis_plain_wordmark_logo_icon_146367.png) ![Rabbitmq](https://raw.githubusercontent.com/jbichene95/LOGOS/main/rabbitmq_logo_icon_170812.png)
+ ![apache-kafka](https://raw.githubusercontent.com/jbichene95/LOGOS/main/apache_kafka_vertical_logo_icon_169585.png)
+ 
+
+
 <!--
 **jbichene95/jbichene95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
