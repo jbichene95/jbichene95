@@ -5,12 +5,13 @@
 ### About me
  For me my journey to this point has been driven by passion , i really do enjoy designing challanging projects that solve real practical problems,
  i am skilled at the following;
- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
  
+ 1. ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+ 2.
  <div>
  <ol>
   <li>
-  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
   </li>
  </ol>
  
