@@ -24,15 +24,29 @@
  
  
   ## DEVOPS AND AUTOMATION
- 
-  ![GITHUB-ACTIONS](https://raw.githubusercontent.com/jbichene95/LOGOS/main/actions_icon_189392.png) 
- ![GITHUB-ACTIONS](https://raw.githubusercontent.com/jbichene95/LOGOS/main/apache_original_wordmark_logo_icon_146643.png) 
+![REDHAT](https://raw.githubusercontent.com/jbichene95/LOGOS/main/redhat_original_wordmark_logo_icon_146373.png) 
+![Ubuntu](https://raw.githubusercontent.com/jbichene95/LOGOS/main/ubuntu_plain_wordmark_logo_icon_146632.png) 
+![GITHUB-ACTIONS](https://raw.githubusercontent.com/jbichene95/LOGOS/main/actions_icon_189392.png) 
+![docker](https://raw.githubusercontent.com/jbichene95/LOGOS/main/docker_official_logo_icon_169250.png) 
+![promethues](https://raw.githubusercontent.com/jbichene95/LOGOS/main/file_type_prometheus_icon_130229.png) 
+![TERRAFORM](https://raw.githubusercontent.com/jbichene95/LOGOS/main/file_type_terraform_icon_130125.png) 
+![Kubernetes](https://raw.githubusercontent.com/jbichene95/LOGOS/main/kubernetes_logo_icon_168360.png) 
+![ansible](https://raw.githubusercontent.com/jbichene95/LOGOS/main/ansible_logo_icon_169596.png) 
+![jenkins](https://raw.githubusercontent.com/jbichene95/LOGOS/main/jenkins_logo_icon_167854.png) 
+![Nginx](https://raw.githubusercontent.com/jbichene95/LOGOS/main/nginx_original_logo_icon_146413.png) 
+![grafana](https://raw.githubusercontent.com/jbichene95/LOGOS/main/grafana_logo_icon_171049.png) 
+![GIT](https://raw.githubusercontent.com/jbichene95/LOGOS/main/git_plain_wordmark_logo_icon_146508.png) 
+![apache](https://raw.githubusercontent.com/jbichene95/LOGOS/main/apache_original_wordmark_logo_icon_146643.png) 
+![AWS](https://raw.githubusercontent.com/jbichene95/LOGOS/main/amazon_aws_logo_icon_168666.png) 
+![AZURE](https://raw.githubusercontent.com/jbichene95/LOGOS/main/microsoft_azure_logo_icon_168977.png) 
 
+<!--
 
 <!--
 **jbichene95/jbichene95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
