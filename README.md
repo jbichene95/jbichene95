@@ -1,28 +1,12 @@
+<h1>John Bichene Godstime<h1>
+<h6>Cheif Technical Officer (AITECH)</h6>
+ 
+
+
 ### ABOUT ME
 <html>
  
- <head>
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- </head>
  <h1> I am a computer engineer that is really passionate about working on </h1>
 </html>
 <!--
